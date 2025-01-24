@@ -1,0 +1,2 @@
+# dinamicpage
+Página dinâmica
